@@ -1,4 +1,4 @@
-### About me 👋
+### Hi 👋, I'm Amol
 
 ### I’m a Data Analyst and Quality Engineer with expertise in Healthcare and financial data projects. 
 I enjoy transforming complex datasets into clear, actionable insights that help businesses make better decisions. My key skills include **SAS (Base & Advanced)**, **SQL**, **Excel**, **Power BI**, and **Python** for data analysis, automation, and visualization.
