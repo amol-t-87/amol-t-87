@@ -17,7 +17,7 @@ I enjoy transforming complex datasets into clear, actionable insights that help 
 ###### 📈 Boosted data processing accuracy by 30% in healthcare data workflows.
 ###### 📚 Enabled faster onboarding for 16+ teammates through structured documentation.
 
-### 🧪 Projects
+## 🧪 Projects
 ##### 🧠 Workforce Insights using Python (Aug 2025 – Sep 2025)
 Cleaned and merged employee datasets using Python to analyze roles, seniority, and project allocation. Delivered analysis-ready data for better workforce planning.
 ##### 📈 ShopNest Sales Analysis & Forecasting (Power BI) (Jul 2025 – Aug 2025)
