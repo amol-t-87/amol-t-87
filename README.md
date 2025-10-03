@@ -19,9 +19,9 @@ I enjoy transforming complex datasets into clear, actionable insights that help 
 📚 Enabled faster onboarding for 16+ teammates through structured documentation.
 
 ### 🧪 Projects
-# 🧠 Workforce Insights using Python (Aug 2025 – Sep 2025)
+### 🧠 Workforce Insights using Python (Aug 2025 – Sep 2025)
 Cleaned and merged employee datasets using Python to analyze roles, seniority, and project allocation. Delivered analysis-ready data for better workforce planning.
-# 📈 ShopNest Sales Analysis & Forecasting (Power BI) (Jul 2025 – Aug 2025)
+### 📈 ShopNest Sales Analysis & Forecasting (Power BI) (Jul 2025 – Aug 2025)
 Created dashboards and applied forecasting models using Power BI to identify product performance and simulate a 12% revenue uplift.
-# 🗃 Northwind Database Analysis (PostgreSQL) (Apr 2025 – Jun 2025)
+#### 🗃 Northwind Database Analysis (PostgreSQL) (Apr 2025 – Jun 2025)
 Queried sales, products, and customer data using PostgreSQL to build KPIs and optimize business strategies.
