@@ -12,11 +12,11 @@ I enjoy transforming complex datasets into clear, actionable insights that help 
 ⚡ Fun fact: I enjoy working with data and find that data problems are just like puzzles waiting to be solved!
 
 ## 🏆 Achievements & Certifications
-🎓 Certified Data Analyst – SkilloVilla (2025).
-🛠 Reduced manual data cleaning by 30+ hours/month through SAS automation.
-📊 Simulated 12% revenue growth through Power BI forecasting in sales analysis project.
-📈 Boosted data processing accuracy by 30% in healthcare data workflows.
-📚 Enabled faster onboarding for 16+ teammates through structured documentation.
+###### 🎓 Certified Data Analyst – SkilloVilla (2025).
+###### 🛠 Reduced manual data cleaning by 30+ hours/month through SAS automation.
+###### 📊 Simulated 12% revenue growth through Power BI forecasting in sales analysis project.
+###### 📈 Boosted data processing accuracy by 30% in healthcare data workflows.
+###### 📚 Enabled faster onboarding for 16+ teammates through structured documentation.
 
 ### 🧪 Projects
 ##### 🧠 Workforce Insights using Python (Aug 2025 – Sep 2025)
