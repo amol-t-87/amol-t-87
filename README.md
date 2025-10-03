@@ -7,7 +7,7 @@ I enjoy transforming complex datasets into clear, actionable insights that help 
 👯 I’m looking to collaborate on projects involving data analytics, process automation, and dashboard development.  
 🤔 I’m open to help or advice on ETL pipelines, data cleaning, and building efficient data workflows.  
 💬 Ask me about data validation, business intelligence, and how to optimize reporting processes.  
-📫 How to reach me: LinkedIn - www.linkedin.com/in/amol-thakur-0931a0249 .
+📫 How to reach me: LinkedIn - www.linkedin.com/in/amol-thakur-0931a0249.
 ###### ⚡ Fun fact: I enjoy working with data and find that data problems are just like puzzles waiting to be solved!
 
 ## 🏆 Achievements & Certifications
