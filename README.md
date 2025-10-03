@@ -10,6 +10,7 @@ I enjoy transforming complex datasets into clear, actionable insights that help 
 📫 How to reach me: LinkedIn - www.linkedin.com/in/amol-thakur-0931a0249.
 ###### ⚡ Fun fact: I enjoy working with data and find that data problems are just like puzzles waiting to be solved!
 
+
 ## 🏆 Achievements & Certifications
 ###### 🎓 Certified Data Analyst – SkilloVilla (2025).
 ###### 🛠 Reduced manual data cleaning by 30+ hours/month through SAS automation.
